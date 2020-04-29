@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/surya-portfolio-reactjs/static/css/main.d9ddaad6.chunk.css",
-    "main.js": "/surya-portfolio-reactjs/static/js/main.1cad6631.chunk.js",
-    "main.js.map": "/surya-portfolio-reactjs/static/js/main.1cad6631.chunk.js.map",
-    "runtime-main.js": "/surya-portfolio-reactjs/static/js/runtime-main.1a9740fe.js",
-    "runtime-main.js.map": "/surya-portfolio-reactjs/static/js/runtime-main.1a9740fe.js.map",
-    "static/css/2.b6a8c48d.chunk.css": "/surya-portfolio-reactjs/static/css/2.b6a8c48d.chunk.css",
-    "static/js/2.e7e34d2d.chunk.js": "/surya-portfolio-reactjs/static/js/2.e7e34d2d.chunk.js",
-    "static/js/2.e7e34d2d.chunk.js.map": "/surya-portfolio-reactjs/static/js/2.e7e34d2d.chunk.js.map",
-    "index.html": "/surya-portfolio-reactjs/index.html",
-    "precache-manifest.90c0e3da8b22605cecf9ac6447459993.js": "/surya-portfolio-reactjs/precache-manifest.90c0e3da8b22605cecf9ac6447459993.js",
-    "service-worker.js": "/surya-portfolio-reactjs/service-worker.js",
-    "static/css/2.b6a8c48d.chunk.css.map": "/surya-portfolio-reactjs/static/css/2.b6a8c48d.chunk.css.map",
-    "static/css/main.d9ddaad6.chunk.css.map": "/surya-portfolio-reactjs/static/css/main.d9ddaad6.chunk.css.map",
-    "static/js/2.e7e34d2d.chunk.js.LICENSE.txt": "/surya-portfolio-reactjs/static/js/2.e7e34d2d.chunk.js.LICENSE.txt"
+    "main.css": "/surya_reactjspro/static/css/main.d9ddaad6.chunk.css",
+    "main.js": "/surya_reactjspro/static/js/main.3823f01a.chunk.js",
+    "main.js.map": "/surya_reactjspro/static/js/main.3823f01a.chunk.js.map",
+    "runtime-main.js": "/surya_reactjspro/static/js/runtime-main.73b73ba6.js",
+    "runtime-main.js.map": "/surya_reactjspro/static/js/runtime-main.73b73ba6.js.map",
+    "static/css/2.b6a8c48d.chunk.css": "/surya_reactjspro/static/css/2.b6a8c48d.chunk.css",
+    "static/js/2.e7e34d2d.chunk.js": "/surya_reactjspro/static/js/2.e7e34d2d.chunk.js",
+    "static/js/2.e7e34d2d.chunk.js.map": "/surya_reactjspro/static/js/2.e7e34d2d.chunk.js.map",
+    "index.html": "/surya_reactjspro/index.html",
+    "precache-manifest.81b4c4c9e90f8726b3481c1be7874e06.js": "/surya_reactjspro/precache-manifest.81b4c4c9e90f8726b3481c1be7874e06.js",
+    "service-worker.js": "/surya_reactjspro/service-worker.js",
+    "static/css/2.b6a8c48d.chunk.css.map": "/surya_reactjspro/static/css/2.b6a8c48d.chunk.css.map",
+    "static/css/main.d9ddaad6.chunk.css.map": "/surya_reactjspro/static/css/main.d9ddaad6.chunk.css.map",
+    "static/js/2.e7e34d2d.chunk.js.LICENSE.txt": "/surya_reactjspro/static/js/2.e7e34d2d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a9740fe.js",
+    "static/js/runtime-main.73b73ba6.js",
     "static/css/2.b6a8c48d.chunk.css",
     "static/js/2.e7e34d2d.chunk.js",
     "static/css/main.d9ddaad6.chunk.css",
-    "static/js/main.1cad6631.chunk.js"
+    "static/js/main.3823f01a.chunk.js"
   ]
 }
