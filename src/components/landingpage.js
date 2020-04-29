@@ -10,8 +10,6 @@ class Landing extends Component {
             <img
               src="https://scontent.fhyd1-2.fna.fbcdn.net/v/t1.0-9/s960x960/95093521_2730050273787989_6769415388221407232_o.jpg?_nc_cat=101&_nc_sid=8024bb&_nc_oc=AQlMFgUekuX813JbSzZPLyvknroi9MAHOt6KEtpVwdO1imV8s0R_4q8tlyNAxdJiI4LS9G5sT2GDK6BZTjJhS2zG&_nc_ht=scontent.fhyd1-2.fna&_nc_tp=7&oh=76359a4381aed8f372e9b2410674430c&oe=5ECFF67D"
               alt="avatar"
-              style={{ height: "250px" }}
-              style={{ width: "300px" }}
               className="avatar-img"
             />
             <div className="banner-text">

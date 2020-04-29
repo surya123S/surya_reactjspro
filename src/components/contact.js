@@ -12,7 +12,6 @@ class Contact extends Component {
               src="https://scontent.fhyd1-2.fna.fbcdn.net/v/t1.0-9/40498846_595189457545980_8130458208989872128_n.jpg?_nc_cat=111&_nc_sid=8024bb&_nc_oc=AQnrWO34atNby1FHOoAClUU3Qx9EWkm6gu4yzAtdEBBc7fm9cgdvf0VUW-qXVY_7vMIgzsk0SClzcmsBSpas4Feo&_nc_ht=scontent.fhyd1-2.fna&oh=acedcb4e59b7f0283d831dd9e17007ab&oe=5ECCF56A"
               alt="avatar"
               style={{ height: "500px" }}
-              style={{ width: "350px" }}
             />
             <p style={{ width: "100%", margin: "auto", paddingTop: "1em" }}>
               My Name is Surya Karanam and Im from EastGodavari,Kakinada I
