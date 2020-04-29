@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86611f71f169d8230c287eead75d7005",
+    "revision": "2274d1474626e38d5361e5aad5734476",
     "url": "/surya-portfolio-reactjs/index.html"
   },
   {
-    "revision": "9921df1943b5d92d14aa",
+    "revision": "19bd8e6a7ba65b212d89",
     "url": "/surya-portfolio-reactjs/static/css/2.b6a8c48d.chunk.css"
   },
   {
-    "revision": "eab057dc8bc158fe11f2",
+    "revision": "dcb6c5fa18e61db57931",
     "url": "/surya-portfolio-reactjs/static/css/main.d9ddaad6.chunk.css"
   },
   {
-    "revision": "9921df1943b5d92d14aa",
-    "url": "/surya-portfolio-reactjs/static/js/2.0ccbcba1.chunk.js"
+    "revision": "19bd8e6a7ba65b212d89",
+    "url": "/surya-portfolio-reactjs/static/js/2.e7e34d2d.chunk.js"
   },
   {
     "revision": "63ba80af47535c5571926b75b8de9b89",
-    "url": "/surya-portfolio-reactjs/static/js/2.0ccbcba1.chunk.js.LICENSE.txt"
+    "url": "/surya-portfolio-reactjs/static/js/2.e7e34d2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eab057dc8bc158fe11f2",
-    "url": "/surya-portfolio-reactjs/static/js/main.0cf00fcf.chunk.js"
+    "revision": "dcb6c5fa18e61db57931",
+    "url": "/surya-portfolio-reactjs/static/js/main.1cad6631.chunk.js"
   },
   {
     "revision": "bb098a1802d770f88f11",
