@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/surya-portfolio-reactjs/static/css/main.d9ddaad6.chunk.css",
+    "main.js": "/surya-portfolio-reactjs/static/js/main.0cf00fcf.chunk.js",
+    "main.js.map": "/surya-portfolio-reactjs/static/js/main.0cf00fcf.chunk.js.map",
+    "runtime-main.js": "/surya-portfolio-reactjs/static/js/runtime-main.1a9740fe.js",
+    "runtime-main.js.map": "/surya-portfolio-reactjs/static/js/runtime-main.1a9740fe.js.map",
+    "static/css/2.b6a8c48d.chunk.css": "/surya-portfolio-reactjs/static/css/2.b6a8c48d.chunk.css",
+    "static/js/2.0ccbcba1.chunk.js": "/surya-portfolio-reactjs/static/js/2.0ccbcba1.chunk.js",
+    "static/js/2.0ccbcba1.chunk.js.map": "/surya-portfolio-reactjs/static/js/2.0ccbcba1.chunk.js.map",
+    "index.html": "/surya-portfolio-reactjs/index.html",
+    "precache-manifest.50b668f212a9b558f4368e3f043112ab.js": "/surya-portfolio-reactjs/precache-manifest.50b668f212a9b558f4368e3f043112ab.js",
+    "service-worker.js": "/surya-portfolio-reactjs/service-worker.js",
+    "static/css/2.b6a8c48d.chunk.css.map": "/surya-portfolio-reactjs/static/css/2.b6a8c48d.chunk.css.map",
+    "static/css/main.d9ddaad6.chunk.css.map": "/surya-portfolio-reactjs/static/css/main.d9ddaad6.chunk.css.map",
+    "static/js/2.0ccbcba1.chunk.js.LICENSE.txt": "/surya-portfolio-reactjs/static/js/2.0ccbcba1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a9740fe.js",
+    "static/css/2.b6a8c48d.chunk.css",
+    "static/js/2.0ccbcba1.chunk.js",
+    "static/css/main.d9ddaad6.chunk.css",
+    "static/js/main.0cf00fcf.chunk.js"
+  ]
+}
